@@ -4,11 +4,11 @@ int main(int argc, char *argv[]) {
 	//do while -- repetir
 	
 	int i;
-	i = 0;
+	i = 1;
 	
 	do {
 	   printf ("%d ",i);
-	   i+=2;
+	   i++;
 	} while(i <=10);
 	
 		
