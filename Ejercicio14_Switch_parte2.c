@@ -5,8 +5,6 @@ int main(int argc, char *argv[]) {
 	int opcion;
 	
 	
-
-	
 	do {
 		
 		printf ("******** MENU PRINCIPAL *********\n\n");
