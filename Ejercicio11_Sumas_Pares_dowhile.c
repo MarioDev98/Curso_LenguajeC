@@ -17,6 +17,7 @@ int main(int argc, char *argv[]) {
 		if (i % 2 == 0){
 			printf ("\n numero par %d", i);
 		}
+		
 		else if (i % 2 != 0){
 			sumaimpares = sumaimpares + i; 
 		}
